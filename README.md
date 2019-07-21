@@ -1,5 +1,9 @@
 # Walking-Pattern-Recognition
 
+<p align="center">
+<img src="http://4.bp.blogspot.com/-hdWLQXZfG8g/TdP-LqtkCYI/AAAAAAAABvI/o-ADwLCnv4Y/s1600/walkers300.gif">
+</p>
+
 ## Abstract
 
 Classification is a fascinating world, full of things to discover and much more interesting if we can analyse
