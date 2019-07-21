@@ -1,4 +1,5 @@
 # Walking-Pattern-Recognition
+Statistical Learning Project (Sapienza University of Rome)
 
 <p align="center">
 <img src="http://4.bp.blogspot.com/-hdWLQXZfG8g/TdP-LqtkCYI/AAAAAAAABvI/o-ADwLCnv4Y/s1600/walkers300.gif">
@@ -20,3 +21,27 @@ interesting result.
 Looking more towards the future, we think that this humble project can be the first motivation for an
 advanced development in the realization of robots of each one of us, that are not only able to walk like us,
 but to impersonate us whenever it is necessary.
+
+## Goals
+
+* Classification
+* Multiresolution Analysis
+
+## A few interesting results
+
+![Image1](figure-html/unnamed-chunk-21-1.png)
+
+![Image2](figure-html/unnamed-chunk-22-1.png)
+
+
+## Technology
+R packages:
+
+* randomForest
+* caret
+* MASS
+* e1071
+* doParallel
+* corrplot
+* glmnet
+* ggplot2
